@@ -6,7 +6,7 @@
 #include <stdio.h>
 
 #include "cluster.h"
-#include "elm_decision_set.h"
+#include "elm_decision_branching.h"
 #include "state.h"
 #include "util.h"
 

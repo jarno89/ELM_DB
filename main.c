@@ -9,7 +9,7 @@
 
 #include "cluster.h"
 #include "data_types.h"
-#include "elm_decision_set.h"
+#include "elm_decision_branching.h"
 #include "state.h"
 #include "util.h"
 
